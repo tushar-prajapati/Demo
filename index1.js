@@ -12,3 +12,4 @@ const ans2 = input.filter((n)=>{
     else {return false}
 });
 console.log(ans2+"Hello");
+console.log("Hello Hello");
